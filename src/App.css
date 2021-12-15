@@ -1,0 +1,14 @@
+.card-title {
+	font-weight: 600;
+}
+.card-title:hover {
+	color: #0969da;
+}
+
+.cursor-pointer {
+	cursor: pointer;
+}
+
+a:hover {
+	text-decoration: none;
+}

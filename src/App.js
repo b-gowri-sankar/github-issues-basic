@@ -5,7 +5,8 @@ import SingleIssue from "./pages/SingleIssue";
 
 function App() {
 	return (
-		<div>
+		<div className="container">
+			<h1 className="h1 text-center my-5"> React Facebook Issues </h1>
 			<BrowserRouter>
 				<Routes>
 					<Route path="/" element={<Issues />} />
